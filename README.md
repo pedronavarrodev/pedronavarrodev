@@ -12,6 +12,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:20px;" src="https://media.discordapp.net/attachments/811787365067915274/950406128632741888/GIF-FINAL.gif?width=483&height=483">
 </div>
+  
   ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lpawg4qr100n75abo7v9xt28j&unique={true|1|on|yes})
   
   ##
