@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedronavarrodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronavarrodev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedronavarrodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronavarrodev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,9 +12,12 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:20px;" src="https://media.discordapp.net/attachments/811787365067915274/950406128632741888/GIF-FINAL.gif?width=483&height=483">
 </div>
-  
-  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lpawg4qr100n75abo7v9xt28j&unique={true|1|on|yes})
-  
+</br>
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lpawg4qr100n75abo7v9xt28j&count=1)
+
+
+
   ##
  
 <div> 
